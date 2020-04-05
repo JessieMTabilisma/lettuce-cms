@@ -15,15 +15,3 @@
     }
   }
 }
-
-// hfizpywcftnbyp
-// 2d2a1f288e6344276caad95655ad2482f23ff7e0ca8699a216a74782075d3163
-// ec2-52-200-119-0.compute-1.amazonaws.com
-// 5432
-// d2udd7le8p6fn5
-
-heroku config:set DATABASE_USERNAME=hfizpywcftnbyp
-heroku config:set DATABASE_PASSWORD=2d2a1f288e6344276caad95655ad2482f23ff7e0ca8699a216a74782075d3163
-heroku config:set DATABASE_HOST=ec2-52-200-119-0.compute-1.amazonaws.com
-heroku config:set DATABASE_PORT=5432
-heroku config:set DATABASE_NAME=d2udd7le8p6fn5
