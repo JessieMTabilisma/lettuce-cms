@@ -1,5 +1,5 @@
 {
-  "name": "lettuce-cms",
+  "name": "app",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -13,7 +13,6 @@
   "dependencies": {
     "knex": "<0.20.0",
     "pg": "^8.0.0",
-    "sqlite3": "latest",
     "strapi": "3.0.0-beta.19.5",
     "strapi-admin": "3.0.0-beta.19.5",
     "strapi-connector-bookshelf": "3.0.0-beta.19.5",
@@ -28,7 +27,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "8c2d1b10-a0de-42af-b96d-0e334ed201e6"
+    "uuid": "4824610f-673f-4371-9a07-cac27ab9fefd"
   },
   "engines": {
     "node": ">=10.0.0",
